@@ -61,19 +61,39 @@
 
 // switch statement
 
-let day = 2;
+// let day = 2;
 
-switch (day){
-    case 1:
-        console.log("Monday");
-        break;
-        case 2:
-            console.log("Monday");
-        break;
-        console.log("Tuesday");
-        break;
-        case 3:console.log("Wensday");
-        break;
-        default:
-            console.log("Invalid day");
+// switch (day){
+//     case 1:
+//         console.log("Monday");
+//         break;
+//         case 2:
+//             console.log("Monday");
+//         break;
+//         console.log("Tuesday");
+//         break;
+//         case 3:console.log("Wensday");
+//         break;
+//         default:
+//             console.log("Invalid day");
+// }
+
+// for loop
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);
 }
+// while loop
+let j = 0;
+while (j < 10) {
+    console.log(j);
+    j++;
+}
+
+// do while loop
+
+let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i < 10);
