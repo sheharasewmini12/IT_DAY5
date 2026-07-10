@@ -19,9 +19,28 @@
 
 // console.log(typeof name);
 
-let x = 10;
-let y = 20;
+// let x = 10;
+// let y = 20;
 
-let z = x * y;
+// let z = x * y;
 
-console.log(z);
+// console.log(z);
+
+// > | < | >= | <= | == | !=
+// >== | <== | === | !==
+
+// let x = 10;
+
+// let y = "10";
+
+// console.log(x==y);
+
+// logical operators
+
+// && | || | !
+
+// if (!false){
+//     console.log("ture");
+// } elase {
+//     console.log("false");
+// }
