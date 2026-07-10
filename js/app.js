@@ -102,9 +102,31 @@
 
 //functions
 
-function add(x, y ){
-    return x + y;
-}
+// function add(x, y ){
+//     return x + y;
+// }
 
-let result = add(10, 20);
-console.log(result);
+// let result = add(10, 20);
+// console.log(result);
+
+// public static String add(int x, int y) {
+//    return x + y;
+// }
+
+//array
+
+// let numbers = [1, true, 3, "kasun", 5, "dumith",7];
+
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]);
+// }
+
+//object 
+let customer = {
+    name: "Saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.0
+}
+console.log(customer);
+    
