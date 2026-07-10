@@ -45,6 +45,17 @@
 //     console.log("false");
 // }
 
+//comparisom operators
+
+// > | < | >= | <= | == | !=
+// >== | <== | === | !==
+
+// "10" == 10 // true
+// "10" === 10 // false
+// "10" ===10 false
+// 10===10 true
+
+
 // if else statement
 
 // let x = 10;
